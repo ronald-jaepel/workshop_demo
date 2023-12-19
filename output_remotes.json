@@ -1,4 +1,6 @@
 {
   "output_folder_name": "output",
-  "output_remotes": {}
+  "output_remotes": {
+    "origin": "https://github.com/ronald-jaepel/workshop_demo_output"
+  }
 }

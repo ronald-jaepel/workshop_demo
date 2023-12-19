@@ -5,6 +5,9 @@ dependencies:
   - python=3.10
   - conda
   - cadet
+  - numpy
+  - pandas
+  - scipy
   - pip
   - pip:
       - cadet-process
